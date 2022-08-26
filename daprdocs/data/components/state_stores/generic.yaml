@@ -160,7 +160,7 @@
   features:
     crud: true
     transactions: true
-    etag: true
+    etag: false
     ttl: false
     query: false
 - component: Zookeeper
